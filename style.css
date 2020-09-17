@@ -144,7 +144,7 @@ h5{
     color: white;
   }
 aside{
-  height: 1600px;
+  height: 1400px;
   width: 100%;
   background-color: white;
 }
@@ -188,7 +188,7 @@ padding-top: 150px;
   color: #727272;
 }
 .aside-bottom{
-  height: 600px;
+  height: 400px;
   width: 100%;
 }
 .aside-bottom h1{
@@ -216,6 +216,141 @@ padding-top: 150px;
 }
 .box p{
 text-align: center;
-olor: #727272;
+ color: #727272;
 font-size: 19px;
 }
+
+
+.main-top{
+  height: 360px;
+  background-color: #001A4F;
+  width: 100%;
+}
+
+.main-top h1{
+  font-size: 40px;
+  color: white;
+  float: left;
+   width: 35%;
+
+}
+.main-top p{
+  color: white;
+  font-size: 19px;
+  float: left;
+  width: 35%;
+  margin-top: 20px;
+}
+.main-top img{
+  float: right;
+}
+
+.main-top a{
+  text-decoration: none;
+  color: #64DE82;
+  ont-size: 19px;
+  float: left;
+  margin-top: 20px;
+
+  width: 35%;
+}
+
+
+
+
+
+.middle-main{
+  height: 400px;
+  width: 100%;
+}
+
+.middle-main img{
+  float: left;
+}
+
+.middle-main h3{
+margin-left: 100px;
+margin-top: 100px;
+float: left;
+text-align: center;
+color: #001A4F;
+font-size: 35px;
+}
+
+
+.middle-main p{
+
+  width: 40%;
+  margin-left: 100px;
+  margin-top: 15px;
+  float: left;
+  text-align: center;
+  color: #727272;
+ font-size: 19px;
+ }
+
+
+
+.bottom-main{
+  height: 200px;
+   width: 100%;
+   background-color:  #294681;
+}
+
+.bottom-main h1{
+  font-size: 40px;
+  color: white;
+  float: left;
+   width: 50%;
+   margin-top: 50px;
+
+}
+
+.bottom-main p{
+  float: right;
+  margin-right: 50px;
+  width: 40%;
+   font-size: 19px;
+  color: white;
+  margin-top: 30px;
+  vertical-align: middle;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
