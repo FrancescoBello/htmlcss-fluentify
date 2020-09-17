@@ -225,6 +225,7 @@ font-size: 19px;
   height: 360px;
   background-color: #001A4F;
   width: 100%;
+
 }
 
 .main-top h1{
@@ -248,7 +249,7 @@ font-size: 19px;
 .main-top a{
   text-decoration: none;
   color: #64DE82;
-  ont-size: 19px;
+  font-size: 19px;
   float: left;
   margin-top: 20px;
 
@@ -293,7 +294,8 @@ font-size: 35px;
 
 .bottom-main{
   height: 200px;
-   width: 100%;
+  width: 100%;
+
    background-color:  #294681;
 }
 
@@ -318,23 +320,43 @@ font-size: 35px;
 
 }
 
+footer{
+  background-color: #001A4F;
+  height: 250px;
+  width: 100%;
+}
+
+
+footer h3{
+  color: white;
+}
+
+footer p{
+
+  color: white;
+  width: 35%;
+}
+
+
+footer a{
+  color: white;
+  text-decoration: none;
+
+}
+
+
+.social i{
+  color: #64DE82;
+}
 
 
 
+.privacy{
+  display: inline-block;
+    color: #64DE82;
+    vertical-align: middle;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
